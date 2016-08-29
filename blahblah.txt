@@ -1,4 +1,5 @@
-ef Blah
+def Blah
+Blah
     def get
         'Blah'
 
