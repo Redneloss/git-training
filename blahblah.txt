@@ -1,4 +1,4 @@
-f Blah
+Blah
     def get
         'Blah'
 
