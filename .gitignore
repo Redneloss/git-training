@@ -1,5 +1,1 @@
-*.[oab]
-!file.o
-bin/
-doc/**/*.pdf
-blah
+/project/*.project
